@@ -1,12 +1,31 @@
 ---
 layout: default
+episodes:
+- title: Winter
+  link: http://www.imdb.com/title/tt5447154/?ref_=ttep_ep1
+- title: Spring
+  link: http://www.imdb.com/title/tt5447156/?ref_=tt_ep_nx
+- title: Summer
+  link: http://www.imdb.com/title/tt5447538/?ref_=tt_ep_nx
+- title: Fall
+  link: http://www.imdb.com/title/tt5447536/?ref_=tt_ep_nx
 ---
 {% assign total_episodes = site.data.episodes | size %}{% assign total_days = site.data.dates | size | plus: 0.0 %}{% assign per_day = total_episodes | divided_by: total_days | ceil %}{% assign last_day = per_day | minus: 1 %}
-      <h1>{{total_days | ceil}}-day Gilmore Girls Series Binge</h1>
+      <h1>{{total_days | ceil | plus: 1}}-day Gilmore Girls Series Binge</h1>
       {% assign count = 0 %}{% for episode in site.data.episodes %}{% assign stop = forloop.index0 | modulo: per_day %}{% if stop == 0 %}
-      <h2>{{site.data.dates[count] | date: "%A, %B %-d"}} | Day {{count | plus: 1}}</h2>
+      <div class="day">
+        <h2>{{site.data.dates[count] | date: "%A, %B %-d"}} | Day {{count | plus: 1}}</h2>
 
-      <ol start="{{episode.number}}">{% assign count = count | plus: 1 %}{% endif %}
-        <li><a href="{{episode.link}}" title="Season {{episode.season}}, Episode {{episode.season_number}}">{{episode.title}}</a></li>{% if stop == last_day %}
-      </ol>
+        <ol start="{{episode.number}}">{% assign count = count | plus: 1 %}{% endif %}
+          <li><a href="{{episode.link}}" title="Season {{episode.season}}, Episode {{episode.season_number}}">{{episode.title}}</a></li>{% if stop == last_day %}
+        </ol>
+      </div>
       {% endif %}{% endfor %}
+        </ol>
+      </div>
+      <div class="day final">
+        <h2>Friday, November 24 | Day 40</h2>
+        <ol>
+          {% for episode in page.episodes %}<li><a href="{{episode.link}}">{{episode.title}}</a></li>{% endfor %}
+        </ol>
+      </div>
