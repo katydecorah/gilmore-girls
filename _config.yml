@@ -1,2 +1,13 @@
-title: 40-day Gilmore Girls Series Binge
+name: 40-day Gilmore Girls Series Binge
 baseurl: /gilmore-girls
+
+author:
+  name: Katy DeCorah
+  email: katydecorah@gmail.com
+  uri: http://katydecorah.com/gilmore-girls/
+
+description: Binge the Gilmore Girls series before the new season.
+image: https://c2.staticflickr.com/8/7296/27792809811_aa02bbf5da_h.jpg
+
+gems:
+  - jekyll-seo-tag
