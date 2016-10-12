@@ -1,0 +1,765 @@
+- number: 1
+  season: 1
+  season_number: 1
+  title: "Pilot"
+  link: http://www.imdb.com/title/tt0588176/?ref_=ttep_ep2
+- number: 2
+  season: 1
+  season_number: 2
+  title: "The Lorelais' First Day at Chilton"
+  link: http://www.imdb.com/title/tt0588209/?ref_=ttep_ep3
+- number: 3
+  season: 1
+  season_number: 3
+  title: "Kill Me Now"
+  link: http://www.imdb.com/title/tt0588157/?ref_=ttep_ep4
+- number: 4
+  season: 1
+  season_number: 4
+  title: "The Deer Hunters"
+  link: http://www.imdb.com/title/tt0588202/?ref_=ttep_ep5
+- number: 5
+  season: 1
+  season_number: 5
+  title: "Cinnamon's Wake"
+  link: http://www.imdb.com/title/tt0588129/?ref_=ttep_ep6
+- number: 6
+  season: 1
+  season_number: 6
+  title: "Rory's Birthday Parties"
+  link: http://www.imdb.com/title/tt0588182/?ref_=ttep_ep7
+- number: 7
+  season: 1
+  season_number: 7
+  title: "Kiss and Tell"
+  link: http://www.imdb.com/title/tt0588158/?ref_=ttep_ep8
+- number: 8
+  season: 1
+  season_number: 8
+  title: "Love and War and Snow"
+  link: http://www.imdb.com/title/tt0588166/?ref_=ttep_ep9
+- number: 9
+  season: 1
+  season_number: 9
+  title: "Rory's Dance"
+  link: http://www.imdb.com/title/tt0588183/?ref_=ttep_ep10
+- number: 10
+  season: 1
+  season_number: 10
+  title: "Forgiveness and Stuff"
+  link: http://www.imdb.com/title/tt0588141/?ref_=ttep_ep11
+- number: 11
+  season: 1
+  season_number: 11
+  title: "Paris Is Burning"
+  link: http://www.imdb.com/title/tt0588175/?ref_=ttep_ep12
+- number: 12
+  season: 1
+  season_number: 12
+  title: "Double Date"
+  link: http://www.imdb.com/title/tt0588135/?ref_=ttep_ep13
+- number: 13
+  season: 1
+  season_number: 13
+  title: "Concert Interruptus"
+  link: http://www.imdb.com/title/tt0588131/?ref_=ttep_ep14
+- number: 14
+  season: 1
+  season_number: 14
+  title: "That Damn Donna Reed"
+  link: http://www.imdb.com/title/tt0588197/?ref_=ttep_ep15
+- number: 15
+  season: 1
+  season_number: 15
+  title: "Christopher Returns"
+  link: http://www.imdb.com/title/tt0588128/?ref_=ttep_ep16
+- number: 16
+  season: 1
+  season_number: 16
+  title: "Star-Crossed Lovers and Other Strangers"
+  link: http://www.imdb.com/title/tt0588192/?ref_=ttep_ep17
+- number: 17
+  season: 1
+  season_number: 17
+  title: "The Breakup, Part 2"
+  link: http://www.imdb.com/title/tt0588201/?ref_=ttep_ep18
+- number: 18
+  season: 1
+  season_number: 18
+  title: "The Third Lorelai"
+  link: http://www.imdb.com/title/tt0588217/?ref_=ttep_ep19
+- number: 19
+  season: 1
+  season_number: 19
+  title: "Emily in Wonderland"
+  link: http://www.imdb.com/title/tt0588138/?ref_=ttep_ep20
+- number: 20
+  season: 1
+  season_number: 20
+  title: "P.S. I Lo..."
+  link: http://www.imdb.com/title/tt0588174/?ref_=ttep_ep21
+- number: 21
+  season: 1
+  season_number: 21
+  title: "Love, Daisies and Troubadours"
+  link: http://www.imdb.com/title/tt0588167/?ref_=ttep_ep22
+- number: 22
+  season: 2
+  season_number: 1
+  title: "Sadie, Sadie"
+  link: http://www.imdb.com/title/tt0588185/?ref_=ttep_ep1
+- number: 23
+  season: 2
+  season_number: 2
+  title: "Hammers and Veils"
+  link: http://www.imdb.com/title/tt0588144/?ref_=ttep_ep2
+- number: 24
+  season: 2
+  season_number: 3
+  title: "Red Light on the Wedding Night"
+  link: http://www.imdb.com/title/tt0588180/?ref_=ttep_ep3
+- number: 25
+  season: 2
+  season_number: 4
+  title: "The Road Trip to Harvard"
+  link: http://www.imdb.com/title/tt0588216/?ref_=ttep_ep4
+- number: 26
+  season: 2
+  season_number: 5
+  title: "Nick & Nora/Sid & Nancy"
+  link: http://www.imdb.com/title/tt0588171/?ref_=ttep_ep5
+- number: 27
+  season: 2
+  season_number: 6
+  title: "Presenting Lorelai Gilmore"
+  link: http://www.imdb.com/title/tt0588177/?ref_=ttep_ep6
+- number: 28
+  season: 2
+  season_number: 7
+  title: "Like Mother, Like Daughter"
+  link: http://www.imdb.com/title/tt0588162/?ref_=ttep_ep7
+- number: 29
+  season: 2
+  season_number: 8
+  title: "The Ins and Outs of Inns"
+  link: http://www.imdb.com/title/tt0588208/?ref_=ttep_ep8
+- number: 30
+  season: 2
+  season_number: 9
+  title: "Run Away, Little Boy"
+  link: http://www.imdb.com/title/tt0588184/?ref_=ttep_ep9
+- number: 31
+  season: 2
+  season_number: 10
+  title: "The Bracebridge Dinner"
+  link: http://www.imdb.com/title/tt0588200/?ref_=ttep_ep10
+- number: 32
+  season: 2
+  season_number: 11
+  title: "Secrets and Loans"
+  link: http://www.imdb.com/title/tt0588190/?ref_=ttep_ep11
+- number: 33
+  season: 2
+  season_number: 12
+  title: "Richard in Stars Hollow"
+  link: http://www.imdb.com/title/tt0588181/?ref_=ttep_ep12
+- number: 34
+  season: 2
+  season_number: 13
+  title: "A-Tisket, A-Tasket"
+  link: http://www.imdb.com/title/tt0588117/?ref_=ttep_ep13
+- number: 35
+  season: 2
+  season_number: 14
+  title: "It Should've Been Lorelai"
+  link: http://www.imdb.com/title/tt0588153/?ref_=ttep_ep14
+- number: 36
+  season: 2
+  season_number: 15
+  title: "Lost and Found"
+  link: http://www.imdb.com/title/tt0588165/?ref_=ttep_ep15
+- number: 37
+  season: 2
+  season_number: 16
+  title: "There's the Rub"
+  link: http://www.imdb.com/title/tt0588219/?ref_=ttep_ep16
+- number: 38
+  season: 2
+  season_number: 17
+  title: "Dead Uncles and Vegetables"
+  link: http://www.imdb.com/title/tt0588132/?ref_=ttep_ep17
+- number: 39
+  season: 2
+  season_number: 18
+  title: "Back in the Saddle Again"
+  link: http://www.imdb.com/title/tt0588122/?ref_=ttep_ep18
+- number: 40
+  season: 2
+  season_number: 19
+  title: "Teach Me Tonight"
+  link: http://www.imdb.com/title/tt0588195/?ref_=ttep_ep19
+- number: 41
+  season: 2
+  season_number: 20
+  title: "Help Wanted"
+  link: http://www.imdb.com/title/tt0588147/?ref_=ttep_ep20
+- number: 42
+  season: 2
+  season_number: 21
+  title: "Lorelai's Graduation Day"
+  link: http://www.imdb.com/title/tt0588164/?ref_=ttep_ep21
+- number: 43
+  season: 2
+  season_number: 22
+  title: "I Can't Get Started"
+  link: http://www.imdb.com/title/tt0588150/?ref_=ttep_ep22
+- number: 44
+  season: 3
+  season_number: 1
+  title: "Those Lazy-Hazy-Crazy Days"
+  link: http://www.imdb.com/title/tt0588222/?ref_=ttep_ep1
+- number: 45
+  season: 3
+  season_number: 2
+  title: "Haunted Leg"
+  link: http://www.imdb.com/title/tt0588205/?ref_=ttep_ep2
+- number: 46
+  season: 3
+  season_number: 3
+  title: "Application Anxiety"
+  link: http://www.imdb.com/title/tt0588121/?ref_=ttep_ep3
+- number: 47
+  season: 3
+  season_number: 4
+  title: "One's Got Class and the Other One Dyes"
+  link: http://www.imdb.com/title/tt0588173/?ref_=ttep_ep4
+- number: 48
+  season: 3
+  season_number: 5
+  title: "Eight O'Clock at the Oasis"
+  link: http://www.imdb.com/title/tt0588136/?ref_=ttep_ep5
+- number: 49
+  season: 3
+  season_number: 6
+  title: "Take the Deviled Eggs..."
+  link: http://www.imdb.com/title/tt0588194/?ref_=ttep_ep6
+- number: 50
+  season: 3
+  season_number: 7
+  title: "They Shoot Gilmores, Don't They?"
+  link: http://www.imdb.com/title/tt0588221/?ref_=ttep_ep7
+- number: 51
+  season: 3
+  season_number: 8
+  title: "Let the Games Begin"
+  link: http://www.imdb.com/title/tt0588161/?ref_=ttep_ep8
+- number: 52
+  season: 3
+  season_number: 9
+  title: "A Deep-Fried Korean Thanksgiving"
+  link: http://www.imdb.com/title/tt0588112/?ref_=ttep_ep9
+- number: 53
+  season: 3
+  season_number: 10
+  title: "That'll Do, Pig"
+  link: http://www.imdb.com/title/tt0588198/?ref_=ttep_ep10
+- number: 54
+  season: 3
+  season_number: 11
+  title: "I Solemnly Swear"
+  link: http://www.imdb.com/title/tt0588151/?ref_=ttep_ep11
+- number: 55
+  season: 3
+  season_number: 12
+  title: "Lorelai Out of Water"
+  link: http://www.imdb.com/title/tt0588163/?ref_=ttep_ep12
+- number: 56
+  season: 3
+  season_number: 13
+  title: "Dear Emily and Richard"
+  link: http://www.imdb.com/title/tt0588133/?ref_=ttep_ep13
+- number: 57
+  season: 3
+  season_number: 14
+  title: "Swan Song"
+  link: http://www.imdb.com/title/tt0588193/?ref_=ttep_ep14
+- number: 58
+  season: 3
+  season_number: 15
+  title: "Face-Off"
+  link: http://www.imdb.com/title/tt0588139/?ref_=ttep_ep15
+- number: 59
+  season: 3
+  season_number: 16
+  title: "The Big One"
+  link: http://www.imdb.com/title/tt0588199/?ref_=ttep_ep16
+- number: 60
+  season: 3
+  season_number: 17
+  title: "A Tale of Poes and Fire"
+  link: http://www.imdb.com/title/tt0588116/?ref_=ttep_ep17
+- number: 61
+  season: 3
+  season_number: 18
+  title: "Happy Birthday, Baby"
+  link: http://www.imdb.com/title/tt0588145/?ref_=ttep_ep18
+- number: 62
+  season: 3
+  season_number: 19
+  title: "Keg! Max!"
+  link: http://www.imdb.com/title/tt0588156/?ref_=ttep_ep19
+- number: 63
+  season: 3
+  season_number: 20
+  title: "Say Goodnight, Gracie"
+  link: http://www.imdb.com/title/tt0588187/?ref_=ttep_ep20
+- number: 64
+  season: 3
+  season_number: 21
+  title: "Here Comes the Son"
+  link: http://www.imdb.com/title/tt0588148/?ref_=ttep_ep21
+- number: 65
+  season: 3
+  season_number: 22
+  title: "Those Are Strings, Pinocchio"
+  link: http://www.imdb.com/title/tt0588220/?ref_=ttep_ep22
+- number: 66
+  season: 4
+  season_number: 1
+  title: "Ballrooms and Biscotti"
+  link: http://www.imdb.com/title/tt0588123/?ref_=ttep_ep1
+- number: 67
+  season: 4
+  season_number: 2
+  title: "The Lorelais' First Day at Yale"
+  link: http://www.imdb.com/title/tt0588210/?ref_=ttep_ep2
+- number: 68
+  season: 4
+  season_number: 3
+  title: "The Hobbit, the Sofa and Digger Stiles"
+  link: http://www.imdb.com/title/tt0588206/?ref_=ttep_ep3
+- number: 69
+  season: 4
+  season_number: 4
+  title: "Chicken or Beef?"
+  link: http://www.imdb.com/title/tt0588127/?ref_=ttep_ep4
+- number: 70
+  season: 4
+  season_number: 5
+  title: "The Fundamental Things Apply"
+  link: http://www.imdb.com/title/tt0588204/?ref_=ttep_ep5
+- number: 71
+  season: 4
+  season_number: 6
+  title: "An Affair to Remember"
+  link: http://www.imdb.com/title/tt0588120/?ref_=ttep_ep6
+- number: 72
+  season: 4
+  season_number: 7
+  title: "The Festival of Living Art"
+  link: http://www.imdb.com/title/tt0588203/?ref_=ttep_ep7
+- number: 73
+  season: 4
+  season_number: 8
+  title: "Die, Jerk"
+  link: http://www.imdb.com/title/tt0588134/?ref_=ttep_ep8
+- number: 74
+  season: 4
+  season_number: 9
+  title: "Ted Koppel's Big Night Out"
+  link: http://www.imdb.com/title/tt0588196/?ref_=ttep_ep9
+- number: 75
+  season: 4
+  season_number: 10
+  title: "The Nanny and the Professor"
+  link: http://www.imdb.com/title/tt0588211/?ref_=ttep_ep10
+- number: 76
+  season: 4
+  season_number: 11
+  title: "In the Clamor and the Clangor"
+  link: http://www.imdb.com/title/tt0588152/?ref_=ttep_ep11
+- number: 77
+  season: 4
+  season_number: 12
+  title: "A Family Matter"
+  link: http://www.imdb.com/title/tt0588113/?ref_=ttep_ep12
+- number: 78
+  season: 4
+  season_number: 13
+  title: "Nag Hammadi Is Where They Found the Gnostic Gospels"
+  link: http://www.imdb.com/title/tt0588169/?ref_=ttep_ep13
+- number: 79
+  season: 4
+  season_number: 14
+  title: "The Incredible Sinking Lorelais"
+  link: http://www.imdb.com/title/tt0588207/?ref_=ttep_ep14
+- number: 80
+  season: 4
+  season_number: 15
+  title: "Scene in a Mall"
+  link: http://www.imdb.com/title/tt0588189/?ref_=ttep_ep15
+- number: 81
+  season: 4
+  season_number: 16
+  title: "The Reigning Lorelai"
+  link: http://www.imdb.com/title/tt0588215/?ref_=ttep_ep16
+- number: 82
+  season: 4
+  season_number: 17
+  title: "Girls in Bikinis, Boys Doin' The Twist"
+  link: http://www.imdb.com/title/tt0588143/?ref_=ttep_ep17
+- number: 83
+  season: 4
+  season_number: 18
+  title: "Tick, Tick, Tick, Boom!"
+  link: http://www.imdb.com/title/tt0588223/?ref_=ttep_ep18
+- number: 84
+  season: 4
+  season_number: 19
+  title: "Afterboom"
+  link: http://www.imdb.com/title/tt0588118/?ref_=ttep_ep19
+- number: 85
+  season: 4
+  season_number: 20
+  title: "Luke Can See Her Face"
+  link: http://www.imdb.com/title/tt0588168/?ref_=ttep_ep20
+- number: 86
+  season: 4
+  season_number: 21
+  title: "Last Week Fights, This Week Tights"
+  link: http://www.imdb.com/title/tt0588159/?ref_=ttep_ep21
+- number: 87
+  season: 4
+  season_number: 22
+  title: "Raincoats and Recipes"
+  link: http://www.imdb.com/title/tt0588179/?ref_=ttep_ep22
+- number: 88
+  season: 5
+  season_number: 1
+  title: "Say Goodbye to Daisy Miller"
+  link: http://www.imdb.com/title/tt0588186/?ref_=ttep_ep1
+- number: 89
+  season: 5
+  season_number: 2
+  title: "A Messenger, Nothing More"
+  link: http://www.imdb.com/title/tt0588115/?ref_=ttep_ep2
+- number: 90
+  season: 5
+  season_number: 3
+  title: "Written in the Stars"
+  link: http://www.imdb.com/title/tt0588232/?ref_=ttep_ep3
+- number: 91
+  season: 5
+  season_number: 4
+  title: "Tippecanoe and Taylor, Too"
+  link: http://www.imdb.com/title/tt0588224/?ref_=ttep_ep4
+- number: 92
+  season: 5
+  season_number: 5
+  title: "We Got Us a Pippi Virgin"
+  link: http://www.imdb.com/title/tt0588227/?ref_=ttep_ep5
+- number: 93
+  season: 5
+  season_number: 6
+  title: "Norman Mailer, I'm Pregnant!"
+  link: http://www.imdb.com/title/tt0588172/?ref_=ttep_ep6
+- number: 94
+  season: 5
+  season_number: 7
+  title: "You Jump, I Jump, Jack"
+  link: http://www.imdb.com/title/tt0588233/?ref_=ttep_ep7
+- number: 95
+  season: 5
+  season_number: 8
+  title: "The Party's Over"
+  link: http://www.imdb.com/title/tt0588212/?ref_=ttep_ep8
+- number: 96
+  season: 5
+  season_number: 9
+  title: "Emily Says Hello"
+  link: http://www.imdb.com/title/tt0588137/?ref_=ttep_ep9
+- number: 97
+  season: 5
+  season_number: 10
+  title: "But Not as Cute as Pushkin"
+  link: http://www.imdb.com/title/tt0588126/?ref_=ttep_ep10
+- number: 98
+  season: 5
+  season_number: 11
+  title: "Women of Questionable Morals"
+  link: http://www.imdb.com/title/tt0588231/?ref_=ttep_ep11
+- number: 99
+  season: 5
+  season_number: 12
+  title: "Come Home"
+  link: http://www.imdb.com/title/tt0588130/?ref_=ttep_ep12
+- number: 100
+  season: 5
+  season_number: 13
+  title: "Wedding Bell Blues"
+  link: http://www.imdb.com/title/tt0588229/?ref_=ttep_ep13
+- number: 101
+  season: 5
+  season_number: 14
+  title: "Say Something"
+  link: http://www.imdb.com/title/tt0588188/?ref_=ttep_ep14
+- number: 102
+  season: 5
+  season_number: 15
+  title: "Jews and Chinese Food"
+  link: http://www.imdb.com/title/tt0588154/?ref_=ttep_ep15
+- number: 103
+  season: 5
+  season_number: 16
+  title: "So...Good Talk"
+  link: http://www.imdb.com/title/tt0588191/?ref_=ttep_ep16
+- number: 104
+  season: 5
+  season_number: 17
+  title: "Pulp Friction"
+  link: http://www.imdb.com/title/tt0588178/?ref_=ttep_ep17
+- number: 105
+  season: 5
+  season_number: 18
+  title: "To Live and Let Diorama"
+  link: http://www.imdb.com/title/tt0588225/?ref_=ttep_ep18
+- number: 106
+  season: 5
+  season_number: 19
+  title: "But I'm a Gilmore!"
+  link: http://www.imdb.com/title/tt0588125/?ref_=ttep_ep19
+- number: 107
+  season: 5
+  season_number: 20
+  title: "How Many Kropogs to Cape Cod?"
+  link: http://www.imdb.com/title/tt0588149/?ref_=ttep_ep20
+- number: 108
+  season: 5
+  season_number: 21
+  title: "Blame Booze and Melville"
+  link: http://www.imdb.com/title/tt0588124/?ref_=ttep_ep21
+- number: 109
+  season: 5
+  season_number: 22
+  title: "A House Is Not a Home"
+  link: http://www.imdb.com/title/tt0588114/?ref_=ttep_ep22
+- number: 110
+  season: 6
+  season_number: 1
+  title: "New and Improved Lorelai"
+  link: http://www.imdb.com/title/tt0588170/?ref_=ttep_ep1
+- number: 111
+  season: 6
+  season_number: 2
+  title: "Fight Face"
+  link: http://www.imdb.com/title/tt0588140/?ref_=ttep_ep2
+- number: 112
+  season: 6
+  season_number: 3
+  title: "The UnGraduate"
+  link: http://www.imdb.com/title/tt0588218/?ref_=ttep_ep3
+- number: 113
+  season: 6
+  season_number: 4
+  title: "Always a Godmother, Never a God"
+  link: http://www.imdb.com/title/tt0588119/?ref_=ttep_ep4
+- number: 114
+  season: 6
+  season_number: 5
+  title: "We've Got Magic to Do"
+  link: http://www.imdb.com/title/tt0588228/?ref_=ttep_ep5
+- number: 115
+  season: 6
+  season_number: 6
+  title: "Welcome to the Doll House"
+  link: http://www.imdb.com/title/tt0588230/?ref_=ttep_ep6
+- number: 116
+  season: 6
+  season_number: 7
+  title: "Twenty-One is the Loneliest Number"
+  link: http://www.imdb.com/title/tt0588226/?ref_=ttep_ep7
+- number: 117
+  season: 6
+  season_number: 8
+  title: "Let Me Hear Your Balalaikas Ringing Out"
+  link: http://www.imdb.com/title/tt0588160/?ref_=ttep_ep8
+- number: 118
+  season: 6
+  season_number: 9
+  title: "The Prodigal Daughter Returns"
+  link: http://www.imdb.com/title/tt0588214/?ref_=ttep_ep9
+- number: 119
+  season: 6
+  season_number: 10
+  title: "He's Slippin' 'Em Bread...Dig?"
+  link: http://www.imdb.com/title/tt0588146/?ref_=ttep_ep10
+- number: 120
+  season: 6
+  season_number: 11
+  title: "The Perfect Dress"
+  link: http://www.imdb.com/title/tt0588213/?ref_=ttep_ep11
+- number: 121
+  season: 6
+  season_number: 12
+  title: "Just Like Gwen and Gavin"
+  link: http://www.imdb.com/title/tt0588155/?ref_=ttep_ep12
+- number: 122
+  season: 6
+  season_number: 13
+  title: "Friday Night's Alright for Fighting"
+  link: http://www.imdb.com/title/tt0588142/?ref_=ttep_ep13
+- number: 123
+  season: 6
+  season_number: 14
+  title: "You've Been Gilmored"
+  link: http://www.imdb.com/title/tt0763165/?ref_=ttep_ep14
+- number: 124
+  season: 6
+  season_number: 15
+  title: "A Vineyard Valentine"
+  link: http://www.imdb.com/title/tt0757486/?ref_=ttep_ep15
+- number: 125
+  season: 6
+  season_number: 16
+  title: "Bridesmaids Revisited"
+  link: http://www.imdb.com/title/tt0766823/?ref_=ttep_ep16
+- number: 126
+  season: 6
+  season_number: 17
+  title: "I'm OK, You're OK"
+  link: http://www.imdb.com/title/tt0766824/?ref_=ttep_ep17
+- number: 127
+  season: 6
+  season_number: 18
+  title: "The Real Paul Anka"
+  link: http://www.imdb.com/title/tt0765894/?ref_=ttep_ep18
+- number: 128
+  season: 6
+  season_number: 19
+  title: "I Get a Sidekick Out of You"
+  link: http://www.imdb.com/title/tt0778246/?ref_=ttep_ep19
+- number: 129
+  season: 6
+  season_number: 20
+  title: "Super Cool Party People"
+  link: http://www.imdb.com/title/tt0776994/?ref_=ttep_ep20
+- number: 130
+  season: 6
+  season_number: 21
+  title: "Driving Miss Gilmore"
+  link: http://www.imdb.com/title/tt0794759/?ref_=ttep_ep21
+- number: 131
+  season: 6
+  season_number: 22
+  title: "Partings"
+  link: http://www.imdb.com/title/tt0789988/?ref_=ttep_ep22
+- number: 132
+  season: 7
+  season_number: 1
+  title: "The Long Morrow"
+  link: http://www.imdb.com/title/tt0824954/?ref_=ttep_ep1
+- number: 133
+  season: 7
+  season_number: 2
+  title: "That's What You Get, Folks, for Makin' Whoopee"
+  link: http://www.imdb.com/title/tt0841271/?ref_=ttep_ep2
+- number: 134
+  season: 7
+  season_number: 3
+  title: "Lorelai's First Cotillion"
+  link: http://www.imdb.com/title/tt0847650/?ref_=ttep_ep3
+- number: 135
+  season: 7
+  season_number: 4
+  title: "S Wonderful, 'S Marvelous"
+  link: http://www.imdb.com/title/tt0847649/?ref_=ttep_ep4
+- number: 136
+  season: 7
+  season_number: 5
+  title: "The Great Stink"
+  link: http://www.imdb.com/title/tt0861407/?ref_=ttep_ep5
+- number: 137
+  season: 7
+  season_number: 6
+  title: "Go, Bulldogs!"
+  link: http://www.imdb.com/title/tt0868143/?ref_=ttep_ep6
+- number: 138
+  season: 7
+  season_number: 7
+  title: "French Twist"
+  link: http://www.imdb.com/title/tt0868144/?ref_=ttep_ep7
+- number: 139
+  season: 7
+  season_number: 8
+  title: "Introducing Lorelai Planetarium"
+  link: http://www.imdb.com/title/tt0885841/?ref_=ttep_ep8
+- number: 140
+  season: 7
+  season_number: 9
+  title: "Knit, People, Knit!"
+  link: http://www.imdb.com/title/tt0888170/?ref_=ttep_ep9
+- number: 141
+  season: 7
+  season_number: 10
+  title: "Merry Fisticuffs"
+  link: http://www.imdb.com/title/tt0894094/?ref_=ttep_ep10
+- number: 142
+  season: 7
+  season_number: 11
+  title: "Santa's Secret Stuff"
+  link: http://www.imdb.com/title/tt0901985/?ref_=ttep_ep11
+- number: 143
+  season: 7
+  season_number: 12
+  title: "To Whom It May Concern"
+  link: http://www.imdb.com/title/tt0921218/?ref_=ttep_ep12
+- number: 144
+  season: 7
+  season_number: 13
+  title: "I'd Rather Be in Philadelphia"
+  link: http://www.imdb.com/title/tt0957950/?ref_=ttep_ep13
+- number: 145
+  season: 7
+  season_number: 14
+  title: "Farewell, My Pet"
+  link: http://www.imdb.com/title/tt0957949/?ref_=ttep_ep14
+- number: 146
+  season: 7
+  season_number: 15
+  title: "I Am Kayak, Hear Me Roar"
+  link: http://www.imdb.com/title/tt0949011/?ref_=ttep_ep15
+- number: 147
+  season: 7
+  season_number: 16
+  title: "Will You Be My Lorelai Gilmore?"
+  link: http://www.imdb.com/title/tt0959778/?ref_=ttep_ep16
+- number: 148
+  season: 7
+  season_number: 17
+  title: "Gilmore Girls Only"
+  link: http://www.imdb.com/title/tt0976505/?ref_=ttep_ep17
+- number: 149
+  season: 7
+  season_number: 18
+  title: "Hay Bale Maze"
+  link: http://www.imdb.com/title/tt0962360/?ref_=ttep_ep18
+- number: 150
+  season: 7
+  season_number: 19
+  title: "It's Just Like Riding a Bike"
+  link: http://www.imdb.com/title/tt0993249/?ref_=ttep_ep19
+- number: 151
+  season: 7
+  season_number: 20
+  title: "Lorelai? Lorelai?"
+  link: http://www.imdb.com/title/tt1001863/?ref_=ttep_ep20
+- number: 152
+  season: 7
+  season_number: 21
+  title: "Unto the Breach"
+  link: http://www.imdb.com/title/tt1009614/?ref_=ttep_ep21
+- number: 153
+  season: 7
+  season_number: 22
+  title: "Bon Voyage"
+  link: http://www.imdb.com/title/tt1001862/?ref_=ttep_ep22
